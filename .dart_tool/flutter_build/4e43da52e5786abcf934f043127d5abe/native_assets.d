@@ -1,0 +1,1 @@
+ C:\\Users\\User\\AndroidStudioProjects\\Anas_lutter\\.dart_tool\\flutter_build\\4e43da52e5786abcf934f043127d5abe\\native_assets.yaml: 
